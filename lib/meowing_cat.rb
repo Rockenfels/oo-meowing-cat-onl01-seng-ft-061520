@@ -1,2 +1,6 @@
 ## code your solution here. 
-puts "meow"
+class Cat
+  
+  attr_accessor @name
+  
+end
